@@ -1,4 +1,3 @@
-# emmanuelpatrick
 
 <h1 align="center">Hi There👋, I'm Emmanuel</h1>
 <h3 align="center">A Full-Stack Developer driven by curiosity and a commitment to improvement. I enjoy untangling complexities and constantly expanding my knowledge. Every stage of crafting websites excites me as I explore new solutions and refine existing ones. I'm passionate about connecting with fellow enthusiasts, engaging in enriching conversations that broaden horizons and ignite fresh perspectives</h3>
